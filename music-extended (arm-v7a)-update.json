@@ -1,6 +1,6 @@
 {
-  "version": "v8.30.54 (patches 5.12.1)",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/ReversedMusic/revanced-magisk-module/releases/download/1/rvx-music-revanced-extended-magisk-v8.30.54-arm-v7a.zip",
+  "version": "v8.30.54 (patches 5.13.1)",
+  "versionCode": 4,
+  "zipUrl": "https://github.com/ReversedMusic/revanced-magisk-module/releases/download/4/rvx-music-revanced-extended-magisk-v8.30.54-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/ReversedMusic/revanced-magisk-module/update/build.md"
 }
